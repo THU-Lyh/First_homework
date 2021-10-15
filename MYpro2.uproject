@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{131E48A5-4AE0-BAD3-0943-DEAE56A2E8B9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MYpro2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
